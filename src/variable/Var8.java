@@ -13,7 +13,7 @@ public class Var8 {
 
         //실수
         float f = 10.0f;
-        double d = 10.0;
+        double d = 10.0; //double 이 좀 더 큰 범위
 
     }
 }
