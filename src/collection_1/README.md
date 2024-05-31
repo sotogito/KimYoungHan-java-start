@@ -25,4 +25,4 @@
 1. HashMap
 2. Hashtable
 3. TreeMap
-4. Propertiesㅈ
+4. Properties
