@@ -99,5 +99,5 @@ public class HashMap_1 {
             map.put(dogName, entryList.size());
         }
     }
-    
+
 }
