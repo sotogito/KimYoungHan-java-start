@@ -7,5 +7,7 @@ public class Operator4 {
         int sum4 = (2 * 2) + (3 * 3); //sum3 같다.
         System.out.println("sum3 = " + sum3);
         System.out.println("sum4 = " + sum4);
+
+
     }
 }
