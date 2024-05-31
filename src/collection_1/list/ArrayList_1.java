@@ -65,6 +65,7 @@ public class ArrayList_1 {
         }
     }
 
+    //데이터 삭제
     private void deleteElementAt(int index){
         int lastIndex = name.size()-1;
         name.remove(lastIndex);
