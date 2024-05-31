@@ -36,6 +36,6 @@ public class ObjectMainController {
     private CarStatus makeCarStatus(){
         return new CarStatus(nowSpeed);
     }
-    
+
 
 }
