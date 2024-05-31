@@ -13,7 +13,7 @@ public class HashSet_1 {
 
     private void mainController(){
         add();
-
+        printAll();
     }
 
     private void add(){
@@ -23,6 +23,11 @@ public class HashSet_1 {
 
     private void remove(){
         set.remove("기름이");
+    }
+
+    //순서를 보장하지 않음
+    private void printAll(){
+        set.forEach(element -> {System.out.println(element);});
     }
 
 
