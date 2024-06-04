@@ -12,6 +12,11 @@ public class Break2 {
                 break;
             }
             i++;
+
+
+
+
+
         }
 
     }
