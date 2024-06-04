@@ -14,4 +14,5 @@ public class Controller {
         animal2.eat();
         animal.sleep();
     }
+    
 }

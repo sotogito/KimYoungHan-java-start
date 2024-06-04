@@ -8,10 +8,13 @@ public class MainController {
 
         //신용카드 시 객체 생성
         paymentManager.setPaymentStrategy(new CreditCardPayment());
+
         paymentManager.checkPayment(100);
 
         paymentManager.setPaymentStrategy(new PayPalPayment());
-        paymentManager.checkPayment(200);
+        paymentManager.checkPayment(100);
+
+
 
 
 
